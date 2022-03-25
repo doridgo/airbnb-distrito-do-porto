@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-rodrigonilo-red.svg)](https://www.linkedin.com/in/rodrigo-nilo/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/doridgo/airbnb-distrito-do-porto/issues)
+
 <p align="center">
   <img src="https://moraremportugal.com/wp-content/uploads/2018/06/Porto-e1528561211879.jpeg" alt="cidade-do-porto"height=400px >
 </p>
